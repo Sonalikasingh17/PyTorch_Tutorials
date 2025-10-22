@@ -1,2 +1,2 @@
 # PyTorch_Tutorials
-Learn the basics of PyTorch library.
+This repository contains the fundamentals of PyTorch.
